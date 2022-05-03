@@ -107,3 +107,53 @@ position: absolute;
 top: -400px;
 left: 62%;
 }
+
+
+ /*info*/
+
+ .visually{
+   position: relative;
+ }
+
+ .visually-one{
+   position: absolute;
+   top:40% ;
+   left:30% ;
+ }
+
+ .visually-two{
+   position: absolute;
+   top:115% ;
+   left:30% ;
+ }
+
+ .visually-three{
+  position: absolute;
+  top:40% ;
+  left:50% ;
+ }
+
+ .visually-four{
+  position: absolute;
+  top:30% ;
+  left:80% ;
+  
+}
+
+.visually-five{
+  position: absolute;
+  top:500% ;
+  left:80% ;
+}
+
+.visually-six{
+  position: absolute;
+  top:160% ;
+  left:80%;
+  width: 600px;
+ height: 600px;
+ border-radius: 50%; 
+ background:linear-gradient(to bottom, rgba(100, 19, 206, 0.979), rgb(32, 5, 58)) ;
+}
+
+
