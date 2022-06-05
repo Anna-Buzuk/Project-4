@@ -210,7 +210,7 @@ font-size: 30px;
 .Strategy-our{
   position: absolute;
   display: inline-block;
-  left: 0px;
+  left: 150px;
   top: 150px;
   width: 600px;
   height: 600px;
@@ -219,22 +219,75 @@ font-size: 30px;
 }
 
 .bulb{
-width: 150px;
-height: 150px;
-background-color: rgb(28, 52, 156);
-padding-top: 35px;
-padding-left: 35px;
+margin-left: 40%;
+margin-top: 30%;
+width: 100px;
+height: 100px;
 }
 
 .bulb-one{
 fill: white;
+
 }
+
+.bulb-two{
+fill: white; 
+
+}
+
+.bulb-three{
+  fill: white; 
+}
+
+.bulb-two-color{
+width: 100px;
+height: 100px;
+margin-left: 70%;
+margin-top: 85%;
+ 
+}
+
+.bulb-three-color{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(110, 31, 7);
+
+}
+
+.bulb-one-text-big{
+  color: white;
+  margin-left: 240px; 
+}
+
+.bulb-two-text-big{
+  color: white;
+  margin-left: 330px;
+}
+
+
+
+.bulb-one-text{
+  color: white;
+  margin-left: 170px;
+}
+
+.bulb-two-text{
+  color: white;
+  margin-left: 210px;
+}
+
 
 
 .design{
   display: inline-block;
+  position: absolute;
+  left: 400px;
+  top: -60px;
 }
 
 .experience{
   display: inline-block;
+  position: absolute;
+  left: 950px;
+  top: 150px;
 }
